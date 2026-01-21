@@ -14,19 +14,19 @@ Due to Tableau free trial expiration, the dashboard is demonstrated using screen
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/Dashboard-overview.png)
+![Dashboard Overview](screenshots/Dashboard-overview.PNG)
 
 ### KPI Metrics
-![KPI Metrics](screenshots/Executive-page.png)
+![KPI Metrics](screenshots/Executive-page.PNG)
 
 ### Category-wise Performance
-![Category Performance](screenshots/Revenueanalysis-split.png)
+![Category Performance](screenshots/Revenueanalysis-split.PNG)
 
 ### Filter Interaction
-![Filter Example](screenshots/RevenueAnalysis.png)
+![Filter Example](screenshots/RevenueAnalysis.PNG)
 
 ### Regionwise profit 
-![Filter Example](screenshots/Profitwisecountries.png)
+![Filter Example](screenshots/Profitwisecountries.PNG)
 
 
 ## 🔍 Key Insights
